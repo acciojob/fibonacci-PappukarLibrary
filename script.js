@@ -12,7 +12,7 @@ function fibonacci(num) {
 		num2=sum;
 		
 	}
-	return num2;
+	return sum;
 }
 
 module.exports = fibonacci;
